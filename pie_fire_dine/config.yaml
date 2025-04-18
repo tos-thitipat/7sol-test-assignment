@@ -1,0 +1,7 @@
+APP_NAME: "pie_fire_dine"
+APP_PORT: "8080"
+LOG_LEVEL: "debug"
+LOG_FORMAT: "json"
+
+CSV_MEAT_CATEGORY_PATH: "data/meat_category.csv"
+DEFAULT_SOURCE_TEXT_URL: "https://baconipsum.com/api/?type=meat-and-filler&paras=99&format=text"
